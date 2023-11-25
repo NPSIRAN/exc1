@@ -1,0 +1,37 @@
+
+ GenerateMachineSignature start
+ 
+AddressRep eGnnL/bhdeviceIDRep Lolr
+boardRep ivVr
+biosRep ivVrzD+6
+cpuFullRep nffF
+outMSignature 8000eGnnL/bhLolrivVrivVrzD+6nffF
+ GenerateMachineSignature end
+ 
+ GenerateMachineSignature start
+ 
+AddressRep q0luZpKRdeviceIDRep ZamF
+boardRep 20fQ
+biosRep h9z/IHmj
+cpuFullRep wFWt
+outMSignature 8000q0luZpKRZamF20fQh9z/IHmjwFWt
+ GenerateMachineSignature end
+ 
+ GenerateMachineSignature start
+ 
+AddressRep N1ib0NjadeviceIDRep ZamF
+boardRep SPxp
+biosRep GRdPtU3X
+cpuFullRep wFWt
+outMSignature 8000N1ib0NjaZamFSPxpGRdPtU3XwFWt
+ GenerateMachineSignature end
+ 
+ GenerateMachineSignature start
+ 
+AddressRep 91YJ+t/qdeviceIDRep ZamF
+boardRep /fMA
+biosRep 1asC+YCz
+cpuFullRep wFWt
+outMSignature 800091YJ+t/qZamF/fMA1asC+YCzwFWt
+ GenerateMachineSignature end
+ 
